@@ -20,9 +20,11 @@ packages:
   awesome_notifications:
     dependency: "direct main"
     description:
-      path: "../awesome_notifications"
-      relative: true
-    source: path
+      path: "."
+      ref: interval-fix-temp
+      resolved-ref: "994a7c255e05b6377f385399eda285ab0e012857"
+      url: "https://github.com/guyluz11/awesome_notifications.git"
+    source: git
     version: "3.7.12"
   boolean_selector:
     dependency: transitive

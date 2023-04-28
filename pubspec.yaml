@@ -13,8 +13,10 @@ dependencies:
 
   firebase_core: ^2.7.1
   firebase_crashlytics: ^3.0.16
-  awesome_notifications: #^0.7.5
-    path: ../awesome_notifications
+  awesome_notifications:
+    git:
+      url: 'https://github.com/guyluz11/awesome_notifications.git'
+      ref: 'interval-fix-temp'
 
 #    git:
 #      ref: "a9fbe3e"
