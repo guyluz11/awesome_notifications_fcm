@@ -16,7 +16,7 @@ dependencies:
   awesome_notifications:
       git:
         url: 'https://github.com/guyluz11/awesome_notifications.git'
-        ref: 'notification-interval-fix-testing'
+        ref: 'notification-interval-fix-testing-intl-0-18-0'
 
 #    git:
 #      ref: "a9fbe3e"

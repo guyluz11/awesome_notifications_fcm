@@ -21,8 +21,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: notification-interval-fix-testing
-      resolved-ref: "6b4033f878307251126a2c8feb8ac32c5d5edb52"
+      ref: notification-interval-fix-testing-intl-0-18-0
+      resolved-ref: aacf68ad4c766a0225a2c928b83a40fd3ed465c4
       url: "https://github.com/guyluz11/awesome_notifications.git"
     source: git
     version: "0.7.5"
