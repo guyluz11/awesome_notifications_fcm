@@ -1,4 +1,4 @@
-## [0.7.5]
+## [3.7.12]
 ### Added
 * Asset and resource media files to push notifications.
 * A new method to delete FCM token and reset all topics.
