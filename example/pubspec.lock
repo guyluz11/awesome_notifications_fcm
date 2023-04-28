@@ -36,9 +36,11 @@ packages:
   awesome_notifications:
     dependency: "direct main"
     description:
-      path: "../../awesome_notifications"
-      relative: true
-    source: path
+      path: "."
+      ref: notification-interval-fix
+      resolved-ref: b50270eeabec274b810bf2d5149f87f2ccbe6c9f
+      url: "https://github.com/guyluz11/awesome_notifications.git"
+    source: git
     version: "0.7.5"
   awesome_notifications_fcm:
     dependency: "direct main"
