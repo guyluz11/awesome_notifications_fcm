@@ -37,8 +37,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: notification-interval-fix
-      resolved-ref: b50270eeabec274b810bf2d5149f87f2ccbe6c9f
+      ref: notification-interval-fix-testing
+      resolved-ref: "6b4033f878307251126a2c8feb8ac32c5d5edb52"
       url: "https://github.com/guyluz11/awesome_notifications.git"
     source: git
     version: "0.7.5"
@@ -260,10 +260,10 @@ packages:
     dependency: transitive
     description:
       name: intl
-      sha256: a3715e3bc90294e971cb7dc063fbf3cd9ee0ebf8604ffeafabd9e6f16abbdbe6
+      sha256: "910f85bce16fb5c6f614e117efa303e85a1731bb0081edf3604a2ae6e9a3cc91"
       url: "https://pub.dev"
     source: hosted
-    version: "0.18.0"
+    version: "0.17.0"
   js:
     dependency: transitive
     description:
